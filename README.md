@@ -72,7 +72,7 @@ Machine Learning application using Random Forest, XGBoost, KNN, and Neural Netwo
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![LinkedIn]((https://www.linkedin.com/in/karthik-reddy-523817399/))
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/karthikreddy06)
 
 ---
