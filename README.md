@@ -2,7 +2,7 @@
 
 🎓 Artificial Intelligence & Data Science Student  
 📍 Saveetha School of Engineering, Chennai  
-📊 CGPA: 8.42  
+📊 CGPA: 8.27 
 💡 Passionate about AI, Machine Learning, Deep Learning, and Scalable Applications  
 
 ---
