@@ -1,89 +1,122 @@
-# 👋 Hey, I'm Karthik Reddy
+<!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C48C&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Engineer;Backend+Developer;Machine+Learning+Enthusiast;Building+Real-World+AI+Systems;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Karthik%20Reddy&fontSize=55&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Backend%20Developer&descAlignY=60&animation=fadeIn&color=0:0B72FF,100:00C48C" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C48C&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications+%F0%9F%A4%96;Backend+%7C+Machine+Learning+%7C+Data;Turning+ideas+into+real+products+%F0%9F%9A%80;Always+learning.+Always+building." alt="Typing Animation"/>
 </p>
 
 <p align="center">
   <a href="https://portfolio-spidey8.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-00C48C?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit-00C48C?style=for-the-badge"/>
   </a>
   <a href="https://www.linkedin.com/in/karthik-reddy-523817399/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/karthikreddy06">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:karthikkarthik05421@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karthikreddy06&label=Profile%20Views&color=00C48C&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=karthikreddy06&label=PROFILE%20VIEWS&color=00C48C&style=flat-square"/>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-```python
-class KarthikReddy:
+🎓 **B.Tech — Computer Science (AI & Data Science)**  
+🏫 **Saveetha School of Engineering, Chennai**
 
-    role = "AI & Data Science Engineer"
-    focus = ["Backend Development", "Machine Learning", "AI Systems"]
+💼 **Backend Developer Intern @ BLP Industry.Ai**
 
-    languages = ["Python", "Java", "SQL"]
+🤖 Passionate about **Artificial Intelligence & Machine Learning**
 
-    backend = [
-        "Node.js",
-        "Express.js",
-        "REST APIs"
-    ]
+⚙️ Building **REST APIs, backend systems & scalable applications**
 
-    databases = [
-        "PostgreSQL",
-        "MySQL",
-        "Supabase"
-    ]
+📊 Interested in **Data Analytics & intelligent systems**
 
-    ai_ml = [
-        "Machine Learning",
-        "Deep Learning",
-        "AI Agents",
-        "EfficientNet",
-        "PyTorch"
-    ]
+🚀 Turning ideas into **real-world software**
 
-    currently_building = "Scalable backend & intelligent systems"
-
-    philosophy = "Build → Break → Learn → Improve → Repeat 🚀"
-```
-
-🎓 **B.Tech — Computer Science (AI & Data Science)**
-**Saveetha School of Engineering, Chennai**
-
-💼 **Backend Developer Intern — BLP Industry.Ai**
-
-🤖 Interested in **AI, Machine Learning, AI Agents, Backend Engineering & scalable systems**
-
-⚡ **Oracle Certified Professional: Java SE 17 Developer**
+> **Build → Break → Learn → Improve → Repeat.**
 
 ---
 
-## 🚀 What I Build
+## ⚡ Tech Stack
+
+### 💻 Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp"/>
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase"/>
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vscode"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 Intelligent Systems
+## 🦴 Lumbar Spine Classifier
 
-Building machine learning and deep learning solutions that solve practical problems.
+Deep learning system for classifying lumbar spine degenerative conditions from medical images.
+
+**Tech:**  
+`Python` `PyTorch` `EfficientNet` `Deep Learning`
+
+<a href="https://github.com/karthikreddy06/lumbar-spine-classifier">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
+
 <td width="50%">
 
-### ⚙️ Backend Systems
+## 🤖 AI Study Assistant
 
-Designing REST APIs, database architectures and backend services that are reliable and scalable.
+AI-powered learning assistant designed to help users understand topics and generate quizzes.
+
+**Tech:**  
+`Python` `AI Agents` `LLMs` `Ollama`
+
+<a href="https://github.com/karthikreddy06/ai-study-assistant">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
@@ -91,16 +124,31 @@ Designing REST APIs, database architectures and backend services that are reliab
 <tr>
 <td width="50%">
 
-### 🧠 AI Applications
+## 💧 Water Potability ML
 
-Exploring AI agents, LLM-powered applications and intelligent automation.
+Machine learning system for predicting drinking-water potability using classification models.
+
+**Tech:**  
+`Python` `Scikit-learn` `XGBoost` `Random Forest`
+
+<a href="https://github.com/karthikreddy06/water-potability-ml">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
+
 <td width="50%">
 
-### 📊 Data-Driven Solutions
+## 💼 SkillMatch
 
-Working with data analysis, visualization and ML pipelines to turn data into useful insights.
+Full-stack job matching platform connecting employers and candidates through jobs, applications and messaging.
+
+**Tech:**  
+`Node.js` `Express.js` `PostgreSQL` `Supabase`
+
+<a href="https://github.com/karthikreddy06/skillmatch-platform">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
@@ -108,138 +156,88 @@ Working with data analysis, visualization and ML pipelines to turn data into use
 
 ---
 
-# 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,sql" />
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-### ⚙️ Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,supabase" />
-</p>
-
-### 🧰 Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vscode" />
-</p>
-
----
-
-# 🌟 Featured Projects
-
-## 🦴 Lumbar Spine Degenerative Classification
-
-> Deep learning system for automated classification of lumbar spine degenerative conditions from MRI images.
-
-**Tech:** `Python` `PyTorch` `EfficientNet` `Deep Learning`
-
-🔗 **Repository:**
-https://github.com/karthikreddy06/lumbar-spine-classifier
-
----
-
-## 🤖 AI Study Assistant
-
-> Multi-agent AI learning system designed to provide intelligent topic explanations and generate quizzes.
-
-**Tech:** `Python` `CrewAI` `Ollama` `AI Agents`
-
-🔗 **Repository:**
-https://github.com/karthikreddy06/ai-study-assistant
-
----
-
-## 💧 Drinking Water Potability Prediction
-
-> Machine learning application for predicting drinking-water potability using multiple classification algorithms.
-
-**Tech:** `Python` `Scikit-learn` `Random Forest` `XGBoost` `KNN` `Neural Networks` `Streamlit`
-
-🔗 **Repository:**
-https://github.com/karthikreddy06/water-potability-ml
-
----
-
-## 💼 SkillMatch — Full-Stack Job Matching Platform
-
-> API-driven platform connecting employers and candidates through job postings, applications and messaging.
-
-**Tech:** `Node.js` `Express.js` `PostgreSQL` `Supabase` `REST APIs`
-
-🔗 **Repository:**
-https://github.com/karthikreddy06/skillmatch-platform
-
----
-
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikreddy06&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikreddy06&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikreddy06&layout=compact&hide_border=true&theme=transparent" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=karthikreddy06&hide_border=true&theme=transparent" />
-</p>
-
----
-
-# 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/karthikreddy06/karthikreddy06/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://streak-stats.demolab.com?user=karthikreddy06&hide_border=true&theme=transparent" height="170"/>
 </p>
 
 ---
 
 # 🏆 Certifications
 
-* 🟠 **Oracle Cloud Infrastructure 2024 Generative AI Certified Professional**
-* ☕ **Oracle Certified Professional: Java SE 17 Developer**
-* 🐍 **Python for Data Science and Machine Learning Essential Training — LinkedIn Learning**
+🏅 **Oracle Cloud Infrastructure 2024 Generative AI Certified Professional**
+
+☕ **Oracle Certified Professional — Java SE 17 Developer**
+
+🐍 **Python for Data Science and Machine Learning — LinkedIn Learning**
 
 ---
 
-# 📈 Currently
+# 🔭 Currently
 
-```text
-🔨 Building        → Backend services & AI-powered applications
-🧠 Exploring       → AI Agents, LLMs & intelligent systems
-⚙️ Improving       → System design & backend architecture
-📚 Learning        → Advanced ML & scalable software engineering
-🚀 Goal            → Build technology that solves real-world problems
-```
+<table>
+<tr>
+<td>
+
+🔨 **Building**
+
+Backend services & AI-powered applications
+
+</td>
+<td>
+
+🧠 **Exploring**
+
+AI Agents & intelligent systems
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+⚙️ **Improving**
+
+Backend architecture & system design
+
+</td>
+<td>
+
+📊 **Working With**
+
+Machine Learning & Data Analytics
+
+</td>
+</tr>
+
+</table>
 
 ---
 
-# 🌐 Let's Connect
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://portfolio-spidey8.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-00C48C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-00C48C?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/karthik-reddy-523817399/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/karthikreddy06">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:karthikkarthik05421@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -247,7 +245,7 @@ https://github.com/karthikreddy06/skillmatch-platform
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C48C&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B72FF,100:00C48C" width="100%"/>
 </p>
 
 <p align="center">
